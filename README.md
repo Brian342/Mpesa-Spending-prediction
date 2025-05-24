@@ -69,6 +69,18 @@ Here are some visual representations of the project:
 ### Transaction Impact on Balance (Shows the Impact of High Transaction on your Balance)
 ![Screenshot 3](/Images/TransactionImapactBalance.png)
 
+### Checking Outliners using Boxplot
+![Screenshot 3](/Images/CheckingOutliners.png)
+
+### XgboostModel
+![Screenshot 3](/Images/XgboostModel.png)
+
+### Actual vs prediction xgboost
+![Screenshot 3](/Images/Actual_vs_Prediction_Xgboost.png)
+
+### Prophet prediction (shows your spending in the next 60 days)
+![Screenshot 3](/Images/Prophet.png)
+
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
