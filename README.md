@@ -48,8 +48,8 @@ M-Pesa is a mobile money service launched by Safaricom, Kenya’s leading teleco
 ## Screenshots
 Here are some visual representations of the project:
 
-### Data saving to csv
-![Screenshot 1](/Images/Datacleaning_saving_csv.png)
+### Data Extraction
+![Screenshot 1](/Images/Extracting_Data_pdf.png)
 
 ### EDA
 ![Screenshot 2](/Images/EDA.png)
