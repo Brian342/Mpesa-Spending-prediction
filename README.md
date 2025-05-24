@@ -51,17 +51,23 @@ Here are some visual representations of the project:
 ### Data Extraction
 ![Screenshot 1](/Images/Extracting_Data_pdf.png)
 
-### EDA
-![Screenshot 2](/Images/EDA.png)
+### Data Anonymising
+![Screenshot 2](/Images/Anonymising.png)
 
-### Feature Analysis
-![Screenshot 3](/Images/FeatureAnalysis.png)
+### Data Connection Database
+![Screenshot 3](/Images/ConnectingDatabase.png)
 
-### Health Departments with High Cumulative
-![Screenshot 3](/Images/Health_departments_with_High_cumulative.png)
+### Transaction During Weekday (Shows which day most Transaction occurs)
+![Screenshot 3](/Images/TransactionWeekday.png)
 
-### County having High Cumulative
-![Screenshot 3](/Images/County_high_culumaltive.png)
+### Transaction Used Most (which Transaction Party you use the most)
+![Screenshot 3](/Images/TransactionUsedMost.png)
+
+### Paid In vs Withdrawal (Shows which one affects your mpesa account Paid in or Withdrawal)
+![Screenshot 3](/Images/PaidInvsWithdrawal.png)
+
+### Transaction Impact on Balance (Shows the Impact of High Transaction on your Balance)
+![Screenshot 3](/Images/TransactionImapactBalance.png)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
