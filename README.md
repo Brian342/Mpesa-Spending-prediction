@@ -1,23 +1,41 @@
 # M-Pesa Spending Prediction
-![Screenshot 1](/Images/Illinois_data.png)
+![Screenshot 1](/Images/Finance.jpg)
 
-Illinois Department of Health is a website that contains tables of different county and their breakdown of HIV Survillance update.
-Every county is broken down and analysed in depth. Tools like selenium is used to extract the table data and the data is saved in a csv format.
+M-Pesa is a mobile money service launched by Safaricom, Kenya’s leading telecommunications company, in 2007. It has revolutionized financial transactions, allowing users to send, receive, deposit, and withdraw money using their mobile phones. M-Pesa has played a significant role in financial inclusion, particularly for unbanked populations
 
 ## Features
-- **Data Collection**: Utilizes Selenium tools to extract the data realtime and save the table data in csv format.
+- **Data Collection**: Utilizes Python modules like
+1. (pikepdf) 
+2. (tabula.io - reading the pdf file)
+3. (PyPDF2)
+- **Data Anonymise**: Removes and anonymise the data
+- **Data Cleaning**: Modifies the data, Removes Duplicates, change data types.
+- **Data Connection**: Connects the cleaned data into database and saves it for future usage
+- **Exploratory Data Analysis and Visualization**: Finding insight and correlation on dataset by answering the following question
+- What day of the week do I spend the most money?
+1. Spending Patterns
+- Which transaction types (e.g., Buy Goods, PayBill, Withdraw) do I use most?
+
+2. People or Places You Transact With
+- Which parties do I send/receive money to/from the most?
   
-- **Exploratory Data Analysis**:
-1. Opening each of the files saved as csv and finding insight and relation between the table data
-2. cleaning the data by removing duplicates
-3. replacing Null values
-4. standardization of the data and data types.
+3. Balance & Financial 
+- Do larger transactions lead to lower account balances?
    
-- **Feature Analysis**: undestanding distribution of the features and potential outliers in the data set
-  
+- **Data Modelling**: Entails 
+1. looking for missing values,
+2. check outliners(Uses Quantiles range),
+3. filling values with median
+4. Label Encoding
+5. Scaling Values
+6. Linear Regression
+7. Random Forest Regressor
+8. xgboost
+9. Model evaluation using R2 score, Root Mean square Error, Mean Absolute Error
+10. Future Prediction using Prophet to predict your spendings in the next 60 days or more
+    
 - **Visualization**: This Entails asking and answering some questions like
-1. what are the County with the highest Cumulative Cases Diagnosed Since 2016
-2. Which Health Department has Highest Cumulative Cases
+
 
 
 ## Installation
