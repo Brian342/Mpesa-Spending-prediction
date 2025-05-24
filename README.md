@@ -1,7 +1,12 @@
 # M-Pesa Spending Prediction
 ![Screenshot 1](/Images/Finance.jpg)
 
-M-Pesa is a mobile money service launched by Safaricom.
+M-Pesa is a mobile money service launched by Safaricom, Kenya’s leading telecommunications company, in 2007. It has revolutionized financial transactions, allowing users to send, receive, deposit, and withdraw money using their mobile phones. M-Pesa has played a significant role in financial inclusion, particularly for unbanked populations
+
+# What’s an M-Pesa Statement?
+An M-Pesa statement is a log of all your M-Pesa transactions over a selected period basically your mobile money history.
+
+# Project Description
 This project involves the extraction, cleaning, and analysis of M-Pesa transaction data to uncover personal spending patterns. Leveraging Python and Pandas for data preprocessing, the statements were converted from PDF to structured formats. Advanced analytics and forecasting models (e.g., Prophet) were applied to predict future expenses, visualize trends over time, and generate automated financial insights. 
 <!--The project also features a Flask-powered interface for interactive dashboards and personalized financial alerts.-->
 
