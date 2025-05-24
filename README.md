@@ -40,9 +40,6 @@ This project involves the extraction, cleaning, and analysis of M-Pesa transacti
 8. xgboost
 9. Model evaluation using R2 score, Root Mean square Error, Mean Absolute Error
 10. Future Prediction using Prophet to predict your spendings in the next 60 days or more
-    
-- **Visualization**: This Entails asking and answering some questions like
-
 
 
 ## Installation
