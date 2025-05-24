@@ -41,8 +41,8 @@ M-Pesa is a mobile money service launched by Safaricom, Kenya’s leading teleco
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Brian342/Web-Scrapping-Using-Python.git
-   cd Web-Scrapping-Using-Python
+   git clone https://github.com/Brian342/Mpesa-Spending-prediction.git
+   cd Mpesa-Spending-prediction
    ```
 
 ## Screenshots
